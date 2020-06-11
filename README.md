@@ -11,9 +11,11 @@
 
 ## Training
 * Step 1: Generate .npy Data with data_utils.py
-* Step 2: Train classification model with main_classification. And the Attention Map and Heatmap will be saved.
+* Step 2: Run main_classification.py to train classification model, the Attention Map and Heatmap will be saved according to the given path.
 * Step 3: Generate the Heatmap for the Hand Reigon, Region-1 and Region-2 one-by-one
-* Step 4: 
+* Step 4: Run data/crop_patches.py to crop the local patches for Hand, Region-1 and Region-2 according to the heatmap one-by-one.
+* Step 5: Run main_aggregation.py to aggragate different local patches for BAA
+* You can also run main_regression.py to get the BAA performance by using one local patch.
 
 ## Results
 <div align=center><img src="https://github.com/chenchao666/Bone-Age-Assessment/blob/master/img/img2.png" width="750" /></div>
