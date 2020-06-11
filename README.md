@@ -1,6 +1,5 @@
-# Bone-Age-Assessment
 # Attention-Guided Discriminative Region Localization for Bone Age Assessment
-* This repository contains code for our paper ** Attention-Guided Discriminative Region Localization for Bone Age Assessment** [Download paper here](https://arxiv.org/abs/2006.00202)
+* This repository contains code for our paper ** Attention-Guided Discriminative Region Localization for Bone Age Assessment** [Download Paper](https://arxiv.org/abs/2006.00202)
 * If you have any question about our paper or code, please don't hesitate to contact with me ahucomputer@126.com, we will update our repository accordingly
 
 ## Setup
