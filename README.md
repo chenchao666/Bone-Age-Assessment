@@ -14,7 +14,8 @@
 * We have provide four functions **HoMM3**, **HoMM4**, **HoMM** and **KHoMM** conresponding to the third-order HoMM, fourth-order HoMM, Arbitrary-order moment matching, and Kernel HoMM.
 
 ## Results
-<div align=center><img src="https://github.com/chenchao666/HoMM-Master/blob/master/img/img5.PNG" width="800" /></div>
+<div align=center><img src="https://github.com/chenchao666/Bone-Age-Assessment/blob/master/img/img2.png" width="750" /></div>
+<div align=center><img src="https://github.com/chenchao666/Bone-Age-Assessment/blob/master/img/img3.png" width="750" /></div>
 
 ## Citation
 * If you find it helpful for you, please cite our paper
