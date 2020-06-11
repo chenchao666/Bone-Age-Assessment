@@ -5,7 +5,7 @@
 * If you have any question about our paper or code, please don't hesitate to contact with me ahucomputer@126.com, we will update our repository accordingly
 
 ## Setup
-* **Dataset** The RSNA dataset can be downloaded here [HoMM in MNIST](https://drive.google.com/open?id=167tVIBI2dVa0D18i6CiM-hicFJ3DJFzX) 
+* **Dataset** The RSNA dataset can be downloaded here [RSNA](https://www.kaggle.com/kmader/rsna-bone-age) 
 
 * **requirements** Python==3.6, tensorflow==1.9, keras = 2.1.6, opencv.
 
