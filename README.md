@@ -24,10 +24,9 @@
 ## Citation
 * If you find it helpful for you, please cite our paper
 ```
-@inproceedings{chen2020HoMM,
-  title={HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation},
-  author={Chao Chen, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-Sheng Hua},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={34},
+@article{chen2020attention,
+  title={Attention-Guided Discriminative Region Localization for Bone Age Assessment},
+  author={Chen, Chao and Chen, Zhihong and Jin, Xinyu and Li, Lanjuan and Speier, William and Arnold, Corey W},
+  journal={arXiv preprint arXiv:2006.00202},
   year={2020}
 }
