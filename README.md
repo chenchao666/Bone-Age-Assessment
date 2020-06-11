@@ -7,12 +7,13 @@
 ## Setup
 * **Dataset** The code as well as the dataset can be downloaded here [HoMM in MNIST](https://drive.google.com/open?id=167tVIBI2dVa0D18i6CiM-hicFJ3DJFzX) 
 
-* **requirements** Python==2.7, tensorflow==1.9, opencv
+* **requirements** Python==3.6, tensorflow==1.9, keras = 2.1.6, opencv.
 
 ## Training
-* **MNIST** You can run **TrainLenet.py** in HoMM-mnist.
-* **Office&Office-Home** You can run **finetune.py** in HoMM_office/resnet/.
-* We have provide four functions **HoMM3**, **HoMM4**, **HoMM** and **KHoMM** conresponding to the third-order HoMM, fourth-order HoMM, Arbitrary-order moment matching, and Kernel HoMM.
+* Step 1: Generate .npy Data with data_utils.py
+* Step 2: Train classification model with main_classification. And the Attention Map and Heatmap will be saved.
+* Step 3: Generate the Heatmap for the Hand Reigon, Region-1 and Region-2 one-by-one
+* Step 4: 
 
 ## Results
 <div align=center><img src="https://github.com/chenchao666/Bone-Age-Assessment/blob/master/img/img2.png" width="750" /></div>
