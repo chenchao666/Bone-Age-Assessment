@@ -10,7 +10,7 @@
 * **requirements** Python==3.6, tensorflow==1.9, keras = 2.1.6, opencv.
 
 ## Training
-* Step 1: Generate .npy Data with data_utils.py
+* Step 1: Generate *.npy Data with data_utils.py
 * Step 2: Run main_classification.py to train classification model, the Attention Map and Heatmap will be saved according to the given path.
 * Step 3: Generate the Heatmap for the Hand Reigon, Region-1 and Region-2 one-by-one
 * Step 4: Run data/crop_patches.py to crop the local patches for Hand, Region-1 and Region-2 according to the heatmap one-by-one.
